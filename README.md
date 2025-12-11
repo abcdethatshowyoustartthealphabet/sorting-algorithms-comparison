@@ -141,6 +141,3 @@ Created as a demonstration of sorting algorithm implementations and performance 
 
 Contributions, issues, and feature requests are welcome!
 
----
-
-⭐ If you find this project useful, please consider giving it a star!

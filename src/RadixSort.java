@@ -1,5 +1,4 @@
 
-package sorting;
 
 import java.util.ArrayDeque;
 import java.util.HashMap;
